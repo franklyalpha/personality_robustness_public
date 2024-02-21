@@ -1,0 +1,10 @@
+{"dataset": "load_strategyqa_dataset", "index": 252, "question": "Does the Red Sea have biblical significance? ", "answer": true}
+{"dataset": "load_strategyqa_dataset", "index": 557, "question": "Is Pearl Harbor the mythical home of a shark goddess?", "answer": true}
+{"dataset": "load_strategyqa_dataset", "index": 590, "question": "Did DARPA influence Albert Einstein? ", "answer": false}
+{"dataset": "load_strategyqa_dataset", "index": 573, "question": "After viewing the Mona Lisa, could you get lunch nearby on foot?", "answer": true}
+{"dataset": "load_gsm8k_dataset", "index": 517, "question": "The eighth-grade class held a bake-off. Kelsie made two times more cookies than Josh. Josh made one-fourth the number of cookies that Suzanne made. If Suzanne made 36 cookies, how many did Kelsie make?", "answer": "Josh made 36/4=<<36/4=9>>9 cookies\nKelsie made 9*2=<<9*2=18>>18 cookies\n#### 18"}
+{"dataset": "load_csqa_dataset", "index": 7660, "question": "Why do parents encourage their kids to play baseball?", "answer": "E"}
+{"dataset": "load_csqa_dataset", "index": 3137, "question": "Where would you put your car keys if you want to go driving?", "answer": "A"}
+{"dataset": "load_csqa_dataset", "index": 7194, "question": "What are people in a library likely doing?", "answer": "C"}
+{"dataset": "load_gsm8k_dataset", "index": 1205, "question": "Bernie has 4 dogs. They each need a certain amount of exercise per day. The first needs to walk 1 mile. The second needs to walk 4 miles. The third needs to walk 3 miles. On average, they need to walk 3 miles per day. How many miles does the last dog need?", "answer": "The total walk distance must be 12 miles because 4 x 3 = <<4*3=12>>12\nThe first three walk a total of 8 miles because 1 + 4 + 3 = <<1+4+3=8>>8\nThe last one needs 4 miles because 12 - 8 = <<12-8=4>>4\n#### 4"}
+{"dataset": "load_csqa_dataset", "index": 951, "question": "The band enjoyed their success and fans, they loved to what at the start of every concert?", "answer": "A"}

@@ -1,0 +1,26 @@
+---
+license: mit
+dataset_info:
+  features:
+  - name: qid
+    dtype: string
+  - name: term
+    dtype: string
+  - name: description
+    dtype: string
+  - name: question
+    dtype: string
+  - name: answer
+    dtype: bool
+  - name: facts
+    dtype: string
+  splits:
+  - name: train
+    num_bytes: 524456
+    num_examples: 1603
+  - name: test
+    num_bytes: 226237
+    num_examples: 687
+  download_size: 530106
+  dataset_size: 750693
+---

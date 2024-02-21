@@ -1,0 +1,14 @@
+HUGGINGFACE: 
+
+tasks: 
+    logiqa: https://huggingface.co/datasets/EleutherAI/logiqa "EleutherAI/logiqa"
+    gsm8k: https://huggingface.co/datasets/gsm8k "gsm8k"
+    commonsense_qa: https://huggingface.co/datasets/commonsense_qa "commonsense_qa"
+    aqua_rat: https://huggingface.co/datasets/aqua_rat "aqua_rat"
+    strategyqa: https://huggingface.co/datasets/ChilleD/StrategyQA "ChilleD/StrategyQA"
+    svamp: https://huggingface.co/datasets/ChilleD/SVAMP "ChilleD/SVAMP"
+    asdiv: https://huggingface.co/datasets/EleutherAI/asdiv "EleutherAI/asdiv"
+
+evaluation: 
+    persona: https://huggingface.co/datasets/EleutherAI/persona "EleutherAI/persona"
+    

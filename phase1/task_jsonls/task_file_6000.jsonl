@@ -1,0 +1,10 @@
+{"dataset": "load_csqa_dataset", "index": 6310, "question": "What prevents someone from going to bed?", "answer": "B"}
+{"dataset": "load_gsm8k_dataset", "index": 890, "question": "There are 100 plants in Mrs. Smith's garden. One-fourth of her plants are indoor plants. Two-thirds of the remaining are outdoor plants while the rest are flowering plants. What percent of the plants are flowering plants?", "answer": "There are 100 x 1/4 = <<100*1/4=25>>25 indoor plants.\nSo, 100 - 25 = <<100-25=75>>75 plants are not indoor plants.\nThere are 75 x 2/3 = <<75*2/3=50>>50 outdoor plants.\nAnd 75 - 50 = <<75-50=25>>25 flowering plants.\nThus, 25/100 x 100% = 25% of the plants are flowering plants.\n#### 25"}
+{"dataset": "load_strategyqa_dataset", "index": 387, "question": "Is Morocco an ideal location for water skiing?", "answer": false}
+{"dataset": "load_gsm8k_dataset", "index": 1055, "question": "James has to buy insurance.  Since he had an accident it was 60% more than normal.  The normal cost is $120 a month.  How much does he pay a year?", "answer": "The insurance is 120*.6=$<<120*.6=72>>72 per month more expensive than normal\nSo he paid 120+72=$<<120+72=192>>192 a month\nThat means he pays 12*192=$<<12*192=2304>>2304\n#### 2304"}
+{"dataset": "load_strategyqa_dataset", "index": 394, "question": "Can citrus grow in Ulaanbaatar?", "answer": false}
+{"dataset": "load_strategyqa_dataset", "index": 83, "question": "Can a traffic collision make someone a millionaire?", "answer": true}
+{"dataset": "load_csqa_dataset", "index": 545, "question": "Where is a telephone booth likely to be red?", "answer": "C"}
+{"dataset": "load_csqa_dataset", "index": 4133, "question": "In what sort of container should you keep your ficus?", "answer": "C"}
+{"dataset": "load_csqa_dataset", "index": 2158, "question": "The art project called for a big wooden rod, so she went where to get one?", "answer": "A"}
+{"dataset": "load_csqa_dataset", "index": 9119, "question": "Where do homeless people go to ty to move around?", "answer": "B"}

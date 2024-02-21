@@ -1,0 +1,3 @@
+https://github.com/langchain-ai/langchain/blob/5e5039dbd284f7f25dd6d40d372c1334c654cf49/libs/langchain/langchain/schema/messages.py#L58
+
+srun -c 8 --gres=gpu:4 --mem=128GB -p t4v2 --qos=high --pty bash
